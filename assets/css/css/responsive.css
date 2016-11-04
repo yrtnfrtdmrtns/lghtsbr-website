@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+  #site-header .desktop-logo {
+    display: none;
+  }
+  #site-header .mobile-logo {
+    display: block;
+  }
+}
