@@ -34,7 +34,7 @@
 						</div>
 
 						<div class="col-xs-12 col-sm-6">
-							<span>Recent work / SocialUp</span>
+							<span><strong>Recent work</strong> / SocialUp</span>
 							<h3><img src="assets/images/projects/socialup/logo.png" alt="SocialUp logo"> meet your friends</h3>
 							<p>Together with the team at SocialUp we created the interactive experience and digital face of the new app for meeting your friends and going out. With SocialUp you can invite your friends to events without bothering with the hassle of the common social networks.</p>
 
@@ -55,22 +55,28 @@
 						</div>
 
 						<div class="col-xs-12">
-							<div class="item">
-								<span>Design</span>
-								<h4>UI / UX Designer</h4>
-							</div>
+							<a href="careers.php">
+								<div class="item">
+									<span>Design</span>
+									<h4>UI / UX Designer</h4>
+								</div>
+							</a>
 
-							<div class="item">
-								<span>Design</span>
-								<h4>Illustrator</h4>
-							</div>
+							<a href="careers.php">
+								<div class="item">
+									<span>Design</span>
+									<h4>Illustrator</h4>
+								</div>
+							</a>
 
-							<div class="item">
-								<span>Development</span>
-								<h4>Back-end developer</h4>
-							</div>
+							<a href="careers.php">
+								<div class="item">
+									<span>Development</span>
+									<h4>Back-end developer</h4>
+								</div>
+							</a>
 
-							<a class="button" href="#">Go to open positions</a>
+							<a class="button" href="careers.php">Go to open positions</a>
 						</div>
 					</div>
 				</section>
@@ -78,7 +84,7 @@
 				<section class="row recent-work-two" id="recent-work">
 					<div class="container">
 						<div class="col-xs-12 col-sm-6">
-							<span>Recent work / Mistobox</span>
+							<span><strong>Recent work</strong> / Mistobox</span>
 							<h3>coffee made easy</h3>
 							<p>MistoBox asked us to help them come up with a new solution for their user process. They planned to implement a new feature called the coffee queue into their user dashboard. Together with the team at MistoBox we created the User Experience for this project.</p>
 
@@ -102,18 +108,24 @@
 						</div>
 
 						<div class="col-xs-12 col-sm-4">
-							<h5>Consult</h5>
-							<p>We see over your project or idea and listen to what you have to say. We focus on the important things to find an on point solution for your problem through meticulously precise planning.</p>
+							<div class="task">
+								<h5>Consult</h5>
+								<p>We see over your project or idea and listen to what you have to say. We focus on the important things to find an on point solution for your problem through meticulously precise planning.</p>
+							</div>
 						</div>
 
 						<div class="col-xs-12 col-sm-4">
-							<h5>Design</h5>
-							<p>This is what we’re passionate about. We understand good design on various levels. Remarkable and minimalistic identities, exceptional and interactive interfaces and stunning products.</p>
+							<div class="task">
+								<h5>Design</h5>
+								<p>This is what we’re passionate about. We understand good design on various levels. Remarkable and minimalistic identities, exceptional and interactive interfaces and stunning products.</p>
+							</div>
 						</div>
 
 						<div class="col-xs-12 col-sm-4">
-							<h5>Implement</h5>
-							<p>We make sure that your ideas become reality and liven them up. Digital, responsive, printed or in motion – we make things come true with exceptionally solid execution.</p>	
+							<div class="task">
+								<h5>Implement</h5>
+								<p>We make sure that your ideas become reality and liven them up. Digital, responsive, printed or in motion – we make things come true with exceptionally solid execution.</p>	
+							</div>
 						</div>
 
 						<div class="col-xs-12">

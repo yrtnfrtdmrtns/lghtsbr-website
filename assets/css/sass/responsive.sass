@@ -1,4 +1,5 @@
 @media (max-width: 768px)
+
 	#site-header
 		.desktop-logo
 			display: none
@@ -13,16 +14,157 @@
 			display: block
 			float: right
 
-	#recent-work
-		&.recent-work-one
-			h3
-				font-size: 28px
+		#responsive-nav
+			display: block
 
+			nav
+				text-align: right
+				display: block
+				
+				a
+					display: block
+					text-align: right
+					margin-right: 0
+
+	#recent-work
+		span
+			margin-bottom: 20px
+
+		h3
+				font-size: 24px
+
+		&.recent-work-one
 			.recent-work-image
 				width: 100%
 				left: auto
+				margin-bottom: 50px
 
 		&.recent-work-two
 			.recent-work-image
 				width: 	100%
 				left: auto
+				display: none
+
+		&.for-others
+			overflow: hidden
+
+			&.recent-work-one
+				.recent-work-image
+					width: 100%
+					left: auto
+					position: relative
+					z-index: 1
+
+				.button
+					&:nth-of-type(2)
+						display: none
+
+			.site-bevel
+				position: absolute
+				bottom: -1px
+				left: 0
+				right: 0
+				transform: rotateY(0deg)
+
+	#tasks
+		h2
+			margin-bottom: 50px
+
+		.task
+			margin-bottom: 20px
+
+		.buttons
+			text-align: left
+
+			.button
+				margin: 0
+
+				&:nth-of-type(1)
+					margin-top: 40px
+					margin-right: 0
+					margin-bottom: 20px
+
+	#mission
+		p
+			font-size: 14px
+
+	#services
+		.buttons
+			text-align: left
+
+			.button
+				margin: 0
+
+				&:nth-of-type(1)
+					margin-top: 40px
+					margin-right: 0
+					margin-bottom: 20px
+
+	#story
+		h5
+			margin-bottom: 30px
+
+		img
+			margin-top: 50px
+
+		.button
+			float: left
+
+	#team
+		ul
+		 li
+		 	margin-bottom: 30px
+
+		 	&:before
+		 		display: none
+
+		 	.employee-description
+		 		&:before
+		 			display: none
+
+		 	.employee-origin
+		 		float: none
+		 		display: block
+
+		 	&:last-child
+		 		margin-bottom: 0
+
+		.buttons
+			text-align: left
+
+			.button
+				margin: 0
+
+				&:nth-of-type(1)
+					margin-top: 40px
+					margin-right: 0
+
+	#vision, #we-need-you, #what-to-expect
+		span
+			margin-bottom: 30px
+			display: block
+
+		p
+			font-size: 14px
+
+	#why-work-with-us
+		ul
+			li
+				&:before
+					content: "-"
+
+	#open-positions
+		.item
+			.item-expanded
+				padding: 0 25px 25px
+
+				p
+					margin-bottom: 25px
+
+	#sub-footer
+		padding: 0
+
+		.sub-footer-item
+			&:last-child
+				margin-top: 30px
+				margin-bottom: 26px

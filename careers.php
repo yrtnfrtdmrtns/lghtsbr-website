@@ -24,11 +24,11 @@
 
 				<section class="row" id="vision">
 					<div class="container">
-						<div class="col-xs-2 col-sm-3">
+						<div class="col-xs-12 col-sm-3">
 							<span>Our vision</span>
 						</div>
 
-						<div class="col-xs-10 col-sm-9">
+						<div class="col-xs-12 col-sm-9">
 							<p>We are young, ambitious and passionate about what we do. Basically we're a company that builds companies and provide in-house expertise reaching from Design to Product Development, to 3D and Visual effects to accelerate the growth of others. Our team consisting of experienced U20 designers and developers is fast, agile and not afraid to fail. We believe in people and help develiver and execute on the best ideas we think up. We understand the importance of simple and human-focused solutions.</p>
 						</div>
 					</div>
@@ -61,11 +61,11 @@
 
 				<section class="row" id="we-need-you">
 					<div class="container">
-						<div class="col-xs-2 col-sm-3">
+						<div class="col-xs-12 col-sm-3">
 							<span>We need you</span>
 						</div>
 
-						<div class="col-xs-10 col-sm-9">
+						<div class="col-xs-12 col-sm-9">
 							<p><strong>We are currently 9 people, and that's awesome, but we're looking to hire and expand our team to include number 10 and beyond.</strong></p>
 							
 							<p>As a global and remote work digital agency we're always on the move; always trying to do the next step – and we need you. Our multicultural team is spread all across the world and especially in many places in Europe. We provide the room creatives need to breathe and allow you to do your job from wherever you'd like, whenver you'd like. We trust your abilities to get the job done. Maybe you also want to drop by Cologne, DE or Locarno, CH to see either Niclas or Paolo? We guarantee a fun time.</p>
@@ -92,31 +92,31 @@
 
 								<div class="item-expanded">
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Description</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend luctus finibus. Nunc augue leo, feugiat aliquam pretium non, venenatis ut tortor. In imperdiet bibendum risus sed pretium. Pellentesque diam magna, egestas ac convallis eget, pharetra quis tortor. Sed ultricies faucibus enim consectetur ullamcorper. Donec ullamcorper aliquam magna quis mollis. Nulla facilisi.</p>
 										</div>
 									</div>
 
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Requirements</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend luctus finibus. Nunc augue leo, feugiat aliquam pretium non, venenatis ut tortor. In imperdiet bibendum risus sed pretium. Pellentesque diam magna, egestas ac convallis eget, pharetra quis tortor. Sed ultricies faucibus enim consectetur ullamcorper. Donec ullamcorper aliquam magna quis mollis. Nulla facilisi.</p>
 										</div>
 									</div>
 
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Location</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>London, UK</p>
 										</div>
 									</div>
@@ -138,31 +138,31 @@
 
 								<div class="item-expanded">
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Description</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend luctus finibus. Nunc augue leo, feugiat aliquam pretium non, venenatis ut tortor. In imperdiet bibendum risus sed pretium. Pellentesque diam magna, egestas ac convallis eget, pharetra quis tortor. Sed ultricies faucibus enim consectetur ullamcorper. Donec ullamcorper aliquam magna quis mollis. Nulla facilisi.</p>
 										</div>
 									</div>
 
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Requirements</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend luctus finibus. Nunc augue leo, feugiat aliquam pretium non, venenatis ut tortor. In imperdiet bibendum risus sed pretium. Pellentesque diam magna, egestas ac convallis eget, pharetra quis tortor. Sed ultricies faucibus enim consectetur ullamcorper. Donec ullamcorper aliquam magna quis mollis. Nulla facilisi.</p>
 										</div>
 									</div>
 
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Location</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>London, UK</p>
 										</div>
 									</div>
@@ -184,31 +184,31 @@
 
 								<div class="item-expanded">
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Description</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend luctus finibus. Nunc augue leo, feugiat aliquam pretium non, venenatis ut tortor. In imperdiet bibendum risus sed pretium. Pellentesque diam magna, egestas ac convallis eget, pharetra quis tortor. Sed ultricies faucibus enim consectetur ullamcorper. Donec ullamcorper aliquam magna quis mollis. Nulla facilisi.</p>
 										</div>
 									</div>
 
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Requirements</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend luctus finibus. Nunc augue leo, feugiat aliquam pretium non, venenatis ut tortor. In imperdiet bibendum risus sed pretium. Pellentesque diam magna, egestas ac convallis eget, pharetra quis tortor. Sed ultricies faucibus enim consectetur ullamcorper. Donec ullamcorper aliquam magna quis mollis. Nulla facilisi.</p>
 										</div>
 									</div>
 
 									<div class="row">
-										<div class="col-xs-2">
+										<div class="col-xs-12 col-sm-2">
 											<span>Location</span>
 										</div>
 
-										<div class="col-xs-10">
+										<div class="col-xs-12 col-sm-10">
 											<p>London, UK</p>
 										</div>
 									</div>
@@ -229,11 +229,11 @@
 
 				<section class="row" id="what-to-expect">
 					<div class="container">
-						<div class="col-xs-2 col-sm-3">
+						<div class="col-xs-12 col-sm-3">
 							<span>What to expect</span>
 						</div>
 
-						<div class="col-xs-10 col-sm-9">
+						<div class="col-xs-12 col-sm-9">
 							<p>We respect that you know how to do your job and we encourage you take the freedom you need to do what your are best at – create beautiful and stunning experiences and humand-focused solutions to potentially make this world a better place. At our studio, you're expected to independently carry out your work and responsibly accept your role as part of the team.</p>
 							
 							<p>Even though we do have classic roles and job descriptions, we also encourage you to think outside the box and go outside your comfort zone to surpass yourself and all expectations.</p>

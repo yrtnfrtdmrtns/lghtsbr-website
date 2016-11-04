@@ -31,6 +31,40 @@
 			&:hover
 				text-decoration: none
 
+	#responsive-nav
+		position: fixed
+		z-index: 3
+		background-color: #1b1b1b
+		width: 80vh
+		height: 100vh
+		top: 0
+		right: -75%
+		-webkit-clip-path: polygon(100% 0%, 50% 0%, 100% 200%)
+		clip-path: polygon(100% 0%, 50% 0%, 100% 200%)
+		display: none
+
+		.menu-icon
+			position: relative;
+			top: 38px
+			right: 38px
+
+		nav
+			text-align: right
+			margin-top: 100px
+			margin-right: 38px
+			
+			a
+				display: block
+				text-align: right
+				margin-right: 0
+				font-size: 18px
+				color: #6d6d6d
+				margin-bottom: 16px
+
+		&.active
+			right: 0
+			transition: .8s all
+
 	.menu-icon
 		width: 30px
 		height: 20px
@@ -41,39 +75,32 @@
 		position: relative
 		display: none
 
-		&.fixed 
-			position: fixed
-			right: 16px
-
 		.menu-icon-top
 			border-top: 4px solid black
 			cursor: pointer
-			transition: all .3s
 
 		.menu-icon-middle
 			margin-top: 6px
 			border-top: 4px solid black
 			cursor: pointer
-			transition: all .3s
 
 		.menu-icon-bottom
 			border-bottom: 4px solid black
 			cursor: pointer
-			transition: all .3s
 			margin-top: 6px
 
 		.menu-icon-top.on
 			transform: rotate(360deg)
-			border-top: 4px solid black
+			border-top: 4px solid white
 			opacity: 0
 
 		.menu-icon-middle.on
 			transform: rotate(45deg)
-			border-top: 4px solid black
+			border-top: 4px solid white
 
 		.menu-icon-bottom.on
-			transform: translateY(-10px) rotate(-45deg)
-			border-bottom: 4px solid black
+			transform: translateY(-11px) rotate(-45deg)
+			border-bottom: 4px solid white
 
 	&.for-others
 		background-color: #e6edef
@@ -314,21 +341,22 @@
 	padding: 100px 0
 	background-color: #fff
 
-	h2
-		font-size: 43px
-		font-family: "Source Sans Pro", sans-serif
-		text-align: center
-		font-weight: 300
-		margin-bottom: 50px
+	.task
+		h2
+			font-size: 43px
+			font-family: "Source Sans Pro", sans-serif
+			text-align: center
+			font-weight: 300
+			margin-bottom: 50px
 
-	h5
-		font-weight: 600
-		font-size: 16px
+		h5
+			font-weight: 600
+			font-size: 16px
 
-	p
-		font-size: 14px
-		line-height: 28px
-		text-align: justify
+		p
+			font-size: 14px
+			line-height: 28px
+			text-align: justify
 
 	.buttons
 		text-align: center
@@ -677,20 +705,21 @@
 	padding: 100px 0
 	background-color: #1b1b1b
 
-	h5
-		font-weight: 600
-		font-size: 16px
-		color: #a7a7a7
+	.sub-footer-item
+		h5
+			font-weight: 600
+			font-size: 16px
+			color: #a7a7a7
 
-	p
-		color: #a7a7a7
-		line-height: 28px
+		p
+			color: #a7a7a7
+			line-height: 28px
 
-		a
-			color: #ffba26
+			a
+				color: #ffba26
 
-			&:hover
-				text-decoration: none
+				&:hover
+					text-decoration: none
 
 #footer
 	padding: 25px 0

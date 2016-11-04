@@ -25,4 +25,19 @@
 			</div>
 		</div>
 	</div>
+
+	<div id="responsive-nav">
+		<div class="menu-icon">
+			<div class="menu-icon-top on"></div>
+			<div class="menu-icon-middle on"></div>
+			<div class="menu-icon-bottom on"></div>
+		</div>
+
+		<nav>
+			<a href="index.php" title="Home">Home</a>
+			<a href="agency.php" title="Agency">Agency</a>
+			<a href="for-others.php" title="For others">For others</a>
+			<a href="careers.php" title="Careers">Careers</a>
+		</nav>
+	</div>
 </section>
